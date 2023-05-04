@@ -6,8 +6,14 @@ This game has flashing lights. Do not play if you are sensitive to flashing ligh
 ## ABOUT ##
 Text-based snake game built in C++
 Use any version of Visual Studio to run the solution directly in VS, alternatively access the .cpp files in another IDE (e.g. Dev-C++). Only works on Windows machines.
+Made using this 3-part tutorial:
 
-# HOW TO PLAY ##
+https://www.youtube.com/watch?v=E_-lMZDi7Uw
+https://www.youtube.com/watch?v=W1e5wO7XR2w
+https://www.youtube.com/watch?v=PSoLD9mVXTA
+
+
+## HOW TO PLAY ##
 
 Controls:
 
